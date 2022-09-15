@@ -11,7 +11,7 @@ class Personagens_Controller
                    
         include 'View/modules/Personagens/listaPersonagens.php';
 
-    }thhrhtrh
+    } 
    
     public static function form()
     {
