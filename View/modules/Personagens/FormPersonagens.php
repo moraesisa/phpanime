@@ -16,9 +16,11 @@
             left:50%;
             top:50%;
             margin-left:-230px;
-            margin-top:-200px;
+            margin-top:-200px; 
+            font-style: italic;
             background-color: white;
             border-radius: 10px;
+            tjhhhr
             box-shadow: 1px 1px 15px;
         }
         label {
